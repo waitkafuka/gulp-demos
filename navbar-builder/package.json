@@ -1,0 +1,24 @@
+{
+  "name": "navbar-builder",
+  "version": "1.4.2",
+  "description": "导航和页面内容通过锚点联动的插件",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "滚动",
+    "导航",
+    "联动",
+    "侧边栏",
+    "侧边导航",
+    "悬浮导航"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^3.0.1",
+    "pump": "^3.0.0"
+  }
+}

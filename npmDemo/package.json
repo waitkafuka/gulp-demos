@@ -1,0 +1,16 @@
+{
+  "name": "npmDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "xkw-0819-test": "^1.0.6"
+  }
+}
